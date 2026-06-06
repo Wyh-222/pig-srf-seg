@@ -1,0 +1,24 @@
+{
+    "info": {},
+    "licenses": [],
+    "categories": [{"id": 1, "name": "pig", "supercategory": "animal"}],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "00001.png",
+            "width": 960,
+            "height": 720
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [60,80,320,410],
+            "area": 78520,
+            "iscrowd": 0,
+            "segmentation": [[62,83,378,86,375,492,58,489]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+path: ./pig_SRF_dataset
+train: train/HR
+val: val/HR
+nc: 1
+names: ['pig']
